@@ -1,0 +1,321 @@
+Filename:C:\Documents\Visual Basic\VB Dialog comm using classes.htm
+Total characters: 38408     Bytes actually counted: 38405
+Number of different strings: 20581    Sample lengths requested:1 2 3 5 
+Elapsed time: 00:00:26
+
+0: total space = 4121; hits = 4121; string =  ; hex = 20; len = 1
+1: total space = 3580; hits = 716; string =      ; hex = 2020202020; len = 5
+2: total space = 2676; hits = 892; string =    ; hex = 202020; len = 3
+3: total space = 2595; hits = 2595; string = e; hex = 65; len = 1
+4: total space = 2183; hits = 2183; string = t; hex = 74; len = 1
+5: total space = 2088; hits = 1044; string =   ; hex = 2020; len = 2
+6: total space = 1790; hits = 1790; string = a; hex = 61; len = 1
+7: total space = 1737; hits = 1737; string = o; hex = 6F; len = 1
+8: total space = 1579; hits = 1579; string = i; hex = 69; len = 1
+9: total space = 1571; hits = 1571; string = r; hex = 72; len = 1
+10: total space = 1394; hits = 1394; string = n; hex = 6E; len = 1
+11: total space = 1283; hits = 1283; string = s; hex = 73; len = 1
+12: total space = 1111; hits = 1111; string = "; hex = 22; len = 1
+13: total space = 1096; hits = 548; string = ="; hex = 3D22; len = 2
+14: total space = 1049; hits = 1049; string = l; hex = 6C; len = 1
+15: total space = 990; hits = 990; string = d; hex = 64; len = 1
+16: total space = 939; hits = 939; string = c; hex = 63; len = 1
+17: total space = 909; hits = 909; string = h; hex = 68; len = 1
+18: total space = 886; hits = 886; string = 
+; hex = 0A; len = 1
+19: total space = 834; hits = 417; string = e ; hex = 6520; len = 2
+20: total space = 788; hits = 788; string = <; hex = 3C; len = 1
+21: total space = 783; hits = 783; string = >; hex = 3E; len = 1
+22: total space = 771; hits = 771; string = /; hex = 2F; len = 1
+23: total space = 771; hits = 771; string = g; hex = 67; len = 1
+24: total space = 770; hits = 385; string = th; hex = 7468; len = 2
+25: total space = 742; hits = 742; string = =; hex = 3D; len = 1
+26: total space = 726; hits = 242; string =  th; hex = 207468; len = 3
+27: total space = 722; hits = 361; string = on; hex = 6F6E; len = 2
+28: total space = 716; hits = 358; string = he; hex = 6865; len = 2
+29: total space = 715; hits = 143; string =  the ; hex = 2074686520; len = 5
+30: total space = 686; hits = 343; string = al; hex = 616C; len = 2
+31: total space = 682; hits = 682; string = m; hex = 6D; len = 1
+32: total space = 676; hits = 338; string =  t; hex = 2074; len = 2
+33: total space = 667; hits = 667; string = f; hex = 66; len = 1
+34: total space = 650; hits = 325; string = nt; hex = 6E74; len = 2
+35: total space = 647; hits = 647; string = p; hex = 70; len = 1
+36: total space = 645; hits = 215; string = the; hex = 746865; len = 3
+37: total space = 638; hits = 319; string = er; hex = 6572; len = 2
+38: total space = 598; hits = 299; string = re; hex = 7265; len = 2
+39: total space = 580; hits = 290; string = 
+<; hex = 0A3C; len = 2
+40: total space = 580; hits = 290; string = " ; hex = 2220; len = 2
+41: total space = 578; hits = 289; string = </; hex = 3C2F; len = 2
+42: total space = 576; hits = 288; string = in; hex = 696E; len = 2
+43: total space = 568; hits = 568; string = u; hex = 75; len = 1
+44: total space = 562; hits = 281; string = ><; hex = 3E3C; len = 2
+45: total space = 546; hits = 273; string = or; hex = 6F72; len = 2
+46: total space = 504; hits = 252; string = s ; hex = 7320; len = 2
+47: total space = 490; hits = 98; string = Image; hex = 496D616765; len = 5
+48: total space = 486; hits = 162; string = he ; hex = 686520; len = 3
+49: total space = 484; hits = 242; string = >
+; hex = 3E0A; len = 2
+50: total space = 470; hits = 94; string = ialog; hex = 69616C6F67; len = 5
+51: total space = 468; hits = 234; string = fo; hex = 666F; len = 2
+52: total space = 468; hits = 234; string = t ; hex = 7420; len = 2
+53: total space = 464; hits = 232; string = ">; hex = 223E; len = 2
+54: total space = 449; hits = 449; string = b; hex = 62; len = 1
+55: total space = 446; hits = 223; string = es; hex = 6573; len = 2
+56: total space = 445; hits = 445; string = .; hex = 2E; len = 1
+57: total space = 442; hits = 221; string = de; hex = 6465; len = 2
+58: total space = 435; hits = 145; string = ont; hex = 6F6E74; len = 3
+59: total space = 432; hits = 216; string = en; hex = 656E; len = 2
+60: total space = 432; hits = 144; string = e="; hex = 653D22; len = 3
+61: total space = 425; hits = 85; string = /grap; hex = 2F67726170; len = 5
+62: total space = 425; hits = 85; string = aphic; hex = 6170686963; len = 5
+63: total space = 425; hits = 85; string = graph; hex = 6772617068; len = 5
+64: total space = 425; hits = 85; string = hics/; hex = 686963732F; len = 5
+65: total space = 425; hits = 85; string = phics; hex = 7068696373; len = 5
+66: total space = 425; hits = 85; string = raphi; hex = 7261706869; len = 5
+67: total space = 420; hits = 210; string = ic; hex = 6963; len = 2
+68: total space = 417; hits = 139; string = td>; hex = 74643E; len = 3
+69: total space = 414; hits = 138; string = ial; hex = 69616C; len = 3
+70: total space = 411; hits = 137; string = ent; hex = 656E74; len = 3
+71: total space = 410; hits = 82; string =  size; hex = 2073697A65; len = 5
+72: total space = 410; hits = 82; string = size=; hex = 73697A653D; len = 5
+73: total space = 408; hits = 136; string = 
+  ; hex = 0A2020; len = 3
+74: total space = 408; hits = 136; string = ="/; hex = 3D222F; len = 3
+75: total space = 405; hits = 135; string = </t; hex = 3C2F74; len = 3
+76: total space = 405; hits = 81; string = ize="; hex = 697A653D22; len = 5
+77: total space = 402; hits = 134; string = ing; hex = 696E67; len = 3
+78: total space = 400; hits = 80; string = font ; hex = 666F6E7420; len = 5
+79: total space = 398; hits = 199; string = ti; hex = 7469; len = 2
+80: total space = 396; hits = 198; string =  a; hex = 2061; len = 2
+81: total space = 395; hits = 79; string = 
+    ; hex = 0A20202020; len = 5
+82: total space = 395; hits = 79; string = <font; hex = 3C666F6E74; len = 5
+83: total space = 388; hits = 194; string = lo; hex = 6C6F; len = 2
+84: total space = 386; hits = 193; string =  s; hex = 2073; len = 2
+85: total space = 382; hits = 191; string = le; hex = 6C65; len = 2
+86: total space = 380; hits = 190; string = te; hex = 7465; len = 2
+87: total space = 365; hits = 73; string = </td>; hex = 3C2F74643E; len = 5
+88: total space = 354; hits = 177; string = ia; hex = 6961; len = 2
+89: total space = 345; hits = 115; string = for; hex = 666F72; len = 3
+90: total space = 345; hits = 115; string = fon; hex = 666F6E; len = 3
+91: total space = 342; hits = 114; string = age; hex = 616765; len = 3
+92: total space = 330; hits = 165; string = ar; hex = 6172; len = 2
+93: total space = 328; hits = 164; string = se; hex = 7365; len = 2
+94: total space = 326; hits = 326; string = w; hex = 77; len = 1
+95: total space = 326; hits = 163; string = ap; hex = 6170; len = 2
+96: total space = 326; hits = 163; string = el; hex = 656C; len = 2
+97: total space = 321; hits = 107; string = >
+<; hex = 3E0A3C; len = 3
+98: total space = 320; hits = 160; string =  o; hex = 206F; len = 2
+99: total space = 320; hits = 160; string = g ; hex = 6720; len = 2
+100: total space = 318; hits = 159; string = ng; hex = 6E67; len = 2
+101: total space = 316; hits = 158; string = tr; hex = 7472; len = 2
+102: total space = 312; hits = 156; string = ri; hex = 7269; len = 2
+103: total space = 312; hits = 156; string = si; hex = 7369; len = 2
+104: total space = 312; hits = 104; string = log; hex = 6C6F67; len = 3
+105: total space = 310; hits = 62; string = ><fon; hex = 3E3C666F6E; len = 5
+106: total space = 308; hits = 154; string =  b; hex = 2062; len = 2
+107: total space = 306; hits = 306; string = v; hex = 76; len = 1
+108: total space = 305; hits = 61; string = /nav/; hex = 2F6E61762F; len = 5
+109: total space = 305; hits = 61; string = <td><; hex = 3C74643E3C; len = 5
+110: total space = 305; hits = 61; string = cs/na; hex = 63732F6E61; len = 5
+111: total space = 305; hits = 61; string = ics/n; hex = 6963732F6E; len = 5
+112: total space = 305; hits = 61; string = s/nav; hex = 732F6E6176; len = 5
+113: total space = 304; hits = 304; string = I; hex = 49; len = 1
+114: total space = 304; hits = 152; string = ce; hex = 6365; len = 2
+115: total space = 303; hits = 101; string = mag; hex = 6D6167; len = 3
+116: total space = 302; hits = 151; string = /t; hex = 2F74; len = 2
+117: total space = 300; hits = 300; string = M; hex = 4D; len = 1
+118: total space = 300; hits = 150; string = ou; hex = 6F75; len = 2
+119: total space = 300; hits = 100; string = orm; hex = 6F726D; len = 3
+120: total space = 300; hits = 60; string = ument; hex = 756D656E74; len = 5
+121: total space = 297; hits = 99; string = alo; hex = 616C6F; len = 3
+122: total space = 295; hits = 59; string =  bord; hex = 20626F7264; len = 5
+123: total space = 295; hits = 59; string = borde; hex = 626F726465; len = 5
+124: total space = 295; hits = 59; string = order; hex = 6F72646572; len = 5
+125: total space = 294; hits = 147; string =  c; hex = 2063; len = 2
+126: total space = 294; hits = 147; string = td; hex = 7464; len = 2
+127: total space = 294; hits = 98; string = Ima; hex = 496D61; len = 3
+128: total space = 294; hits = 98; string = d><; hex = 643E3C; len = 3
+129: total space = 291; hits = 97; string = ></; hex = 3E3C2F; len = 3
+130: total space = 290; hits = 145; string = e=; hex = 653D; len = 2
+131: total space = 290; hits = 145; string = to; hex = 746F; len = 2
+132: total space = 286; hits = 143; string =  f; hex = 2066; len = 2
+133: total space = 286; hits = 143; string = at; hex = 6174; len = 2
+134: total space = 285; hits = 95; string =  bo; hex = 20626F; len = 3
+135: total space = 285; hits = 57; string = Dialo; hex = 4469616C6F; len = 5
+136: total space = 285; hits = 57; string = rder=; hex = 726465723D; len = 5
+137: total space = 284; hits = 142; string = 
+ ; hex = 0A20; len = 2
+138: total space = 280; hits = 140; string =  h; hex = 2068; len = 2
+139: total space = 280; hits = 140; string = d>; hex = 643E; len = 2
+140: total space = 280; hits = 56; string = alog ; hex = 616C6F6720; len = 5
+141: total space = 279; hits = 93; string = nt ; hex = 6E7420; len = 3
+142: total space = 278; hits = 139; string = ma; hex = 6D61; len = 2
+143: total space = 278; hits = 139; string = n ; hex = 6E20; len = 2
+144: total space = 278; hits = 139; string = ra; hex = 7261; len = 2
+145: total space = 278; hits = 139; string = rm; hex = 726D; len = 2
+146: total space = 276; hits = 276; string = '; hex = 27; len = 1
+147: total space = 276; hits = 92; string = ize; hex = 697A65; len = 3
+148: total space = 274; hits = 137; string = me; hex = 6D65; len = 2
+149: total space = 273; hits = 91; string = gra; hex = 677261; len = 3
+150: total space = 272; hits = 136; string = "/; hex = 222F; len = 2
+151: total space = 270; hits = 135; string = 
+
+; hex = 0A0A; len = 2
+152: total space = 270; hits = 135; string = co; hex = 636F; len = 2
+153: total space = 270; hits = 90; string =  si; hex = 207369; len = 3
+154: total space = 270; hits = 54; string = cumen; hex = 63756D656E; len = 5
+155: total space = 270; hits = 54; string = docum; hex = 646F63756D; len = 5
+156: total space = 270; hits = 54; string = ocume; hex = 6F63756D65; len = 5
+157: total space = 266; hits = 266; string = 1; hex = 31; len = 1
+158: total space = 266; hits = 133; string = d ; hex = 6420; len = 2
+159: total space = 266; hits = 133; string = hi; hex = 6869; len = 2
+160: total space = 265; hits = 53; string = -----; hex = 2D2D2D2D2D; len = 5
+161: total space = 264; hits = 132; string = <t; hex = 3C74; len = 2
+162: total space = 264; hits = 88; string = phi; hex = 706869; len = 3
+163: total space = 261; hits = 87; string = .gi; hex = 2E6769; len = 3
+164: total space = 261; hits = 87; string = gif; hex = 676966; len = 3
+165: total space = 261; hits = 87; string = hic; hex = 686963; len = 3
+166: total space = 260; hits = 130; string = if; hex = 6966; len = 2
+167: total space = 260; hits = 52; string = ment.; hex = 6D656E742E; len = 5
+168: total space = 258; hits = 129; string =  i; hex = 2069; len = 2
+169: total space = 258; hits = 86; string = "><; hex = 223E3C; len = 3
+170: total space = 256; hits = 128; string = ge; hex = 6765; len = 2
+171: total space = 255; hits = 85; string = /gr; hex = 2F6772; len = 3
+172: total space = 255; hits = 85; string = aph; hex = 617068; len = 3
+173: total space = 255; hits = 85; string = cs/; hex = 63732F; len = 3
+174: total space = 255; hits = 85; string = ion; hex = 696F6E; len = 3
+175: total space = 255; hits = 85; string = ics; hex = 696373; len = 3
+176: total space = 255; hits = 85; string = rap; hex = 726170; len = 3
+177: total space = 252; hits = 126; string = 
+; hex = 0D0A; len = 2
+178: total space = 252; hits = 126; string = ro; hex = 726F; len = 2
+179: total space = 250; hits = 125; string = , ; hex = 2C20; len = 2
+180: total space = 250; hits = 125; string = na; hex = 6E61; len = 2
+181: total space = 250; hits = 50; string = .gif"; hex = 2E67696622; len = 5
+182: total space = 249; hits = 83; string = ="1; hex = 3D2231; len = 3
+183: total space = 248; hits = 124; string = Im; hex = 496D; len = 2
+184: total space = 246; hits = 82; string = siz; hex = 73697A; len = 3
+185: total space = 246; hits = 82; string = ze=; hex = 7A653D; len = 3
+186: total space = 245; hits = 49; string = " bor; hex = 2220626F72; len = 5
+187: total space = 245; hits = 49; string = MM_sw; hex = 4D4D5F7377; len = 5
+188: total space = 245; hits = 49; string = M_swa; hex = 4D5F737761; len = 5
+189: total space = 245; hits = 49; string = _swap; hex = 5F73776170; len = 5
+190: total space = 245; hits = 49; string = swapI; hex = 7377617049; len = 5
+191: total space = 245; hits = 49; string = wapIm; hex = 776170496D; len = 5
+192: total space = 244; hits = 122; string = ut; hex = 7574; len = 2
+193: total space = 243; hits = 81; string = <fo; hex = 3C666F; len = 3
+194: total space = 243; hits = 81; string = >
+; hex = 3E0D0A; len = 3
+195: total space = 240; hits = 120; string = nd; hex = 6E64; len = 2
+196: total space = 240; hits = 120; string = r>; hex = 723E; len = 2
+197: total space = 240; hits = 48; string =  form; hex = 20666F726D; len = 5
+198: total space = 238; hits = 119; string = an; hex = 616E; len = 2
+199: total space = 237; hits = 79; string = tio; hex = 74696F; len = 3
+200: total space = 235; hits = 47; string = ="2">; hex = 3D2232223E; len = 5
+201: total space = 235; hits = 47; string = e="2"; hex = 653D223222; len = 5
+202: total space = 235; hits = 47; string = nt si; hex = 6E74207369; len = 5
+203: total space = 235; hits = 47; string = ont s; hex = 6F6E742073; len = 5
+204: total space = 235; hits = 47; string = t siz; hex = 742073697A; len = 5
+205: total space = 235; hits = 47; string = ze="2; hex = 7A653D2232; len = 5
+206: total space = 232; hits = 116; string = ag; hex = 6167; len = 2
+207: total space = 232; hits = 116; string = ex; hex = 6578; len = 2
+208: total space = 231; hits = 77; string =   <; hex = 20203C; len = 3
+209: total space = 231; hits = 77; string =  to; hex = 20746F; len = 3
+210: total space = 231; hits = 77; string = to ; hex = 746F20; len = 3
+211: total space = 230; hits = 115; string = ed; hex = 6564; len = 2
+212: total space = 230; hits = 46; string =  href; hex = 2068726566; len = 5
+213: total space = 230; hits = 46; string = "/gra; hex = 222F677261; len = 5
+214: total space = 230; hits = 46; string = <a hr; hex = 3C61206872; len = 5
+215: total space = 230; hits = 46; string = ="/gr; hex = 3D222F6772; len = 5
+216: total space = 230; hits = 46; string = a hre; hex = 6120687265; len = 5
+217: total space = 230; hits = 46; string = href=; hex = 687265663D; len = 5
+218: total space = 230; hits = 46; string = ref="; hex = 7265663D22; len = 5
+219: total space = 228; hits = 114; string = og; hex = 6F67; len = 2
+220: total space = 228; hits = 76; string = er=; hex = 65723D; len = 3
+221: total space = 228; hits = 76; string = men; hex = 6D656E; len = 3
+222: total space = 226; hits = 113; string = bo; hex = 626F; len = 2
+223: total space = 226; hits = 113; string = li; hex = 6C69; len = 2
+224: total space = 226; hits = 113; string = ve; hex = 7665; len = 2
+225: total space = 225; hits = 75; string = ','; hex = 272C27; len = 3
+226: total space = 225; hits = 75; string = 0" ; hex = 302220; len = 3
+227: total space = 225; hits = 75; string = ter; hex = 746572; len = 3
+228: total space = 222; hits = 111; string = et; hex = 6574; len = 2
+229: total space = 222; hits = 111; string = st; hex = 7374; len = 2
+230: total space = 222; hits = 74; string = ng ; hex = 6E6720; len = 3
+231: total space = 222; hits = 74; string = tr>; hex = 74723E; len = 3
+232: total space = 221; hits = 221; string = ,; hex = 2C; len = 1
+233: total space = 221; hits = 221; string = 0; hex = 30; len = 1
+234: total space = 220; hits = 44; string =  widt; hex = 2077696474; len = 5
+235: total space = 220; hits = 44; string = idth=; hex = 696474683D; len = 5
+236: total space = 220; hits = 44; string = width; hex = 7769647468; len = 5
+237: total space = 219; hits = 73; string = /td; hex = 2F7464; len = 3
+238: total space = 219; hits = 73; string = <td; hex = 3C7464; len = 3
+239: total space = 217; hits = 217; string = T; hex = 54; len = 1
+240: total space = 216; hits = 108; string = ct; hex = 6374; len = 2
+241: total space = 216; hits = 108; string = s/; hex = 732F; len = 2
+242: total space = 216; hits = 72; string =  he; hex = 206865; len = 3
+243: total space = 216; hits = 72; string = 919; hex = 393139; len = 3
+244: total space = 215; hits = 43; string = ></a>; hex = 3E3C2F613E; len = 5
+245: total space = 215; hits = 43; string = >
+  <; hex = 3E0A20203C; len = 5
+246: total space = 214; hits = 107; string = r ; hex = 7220; len = 2
+247: total space = 213; hits = 71; string =  fo; hex = 20666F; len = 3
+248: total space = 213; hits = 71; string = r>
+; hex = 723E0A; len = 3
+249: total space = 210; hits = 105; string = ca; hex = 6361; len = 2
+250: total space = 210; hits = 70; string = 
+<; hex = 0D0A3C; len = 3
+251: total space = 210; hits = 42; string = gif" ; hex = 6769662220; len = 5
+252: total space = 207; hits = 69; string = MM_; hex = 4D4D5F; len = 3
+253: total space = 207; hits = 69; string = t="; hex = 743D22; len = 3
+254: total space = 205; hits = 41; string = 'docu; hex = 27646F6375; len = 5
+255: total space = 205; hits = 41; string = </tr>; hex = 3C2F74723E; len = 5
+256: total space = 205; hits = 41; string = ="0" ; hex = 3D22302220; len = 5
+257: total space = 204; hits = 102; string = ht; hex = 6874; len = 2
+258: total space = 204; hits = 68; string = ext; hex = 657874; len = 3
+259: total space = 204; hits = 68; string = nte; hex = 6E7465; len = 3
+260: total space = 202; hits = 101; string = ac; hex = 6163; len = 2
+261: total space = 202; hits = 101; string = f ; hex = 6620; len = 2
+262: total space = 201; hits = 67; string =  co; hex = 20636F; len = 3
+263: total space = 201; hits = 67; string = ord; hex = 6F7264; len = 3
+264: total space = 200; hits = 100; string = gi; hex = 6769; len = 2
+265: total space = 200; hits = 100; string = ll; hex = 6C6C; len = 2
+266: total space = 198; hits = 99; string =  w; hex = 2077; len = 2
+267: total space = 198; hits = 99; string = a ; hex = 6120; len = 2
+268: total space = 198; hits = 99; string = l ; hex = 6C20; len = 2
+269: total space = 196; hits = 98; string =  d; hex = 2064; len = 2
+270: total space = 195; hits = 65; string = abl; hex = 61626C; len = 3
+271: total space = 195; hits = 65; string = ari; hex = 617269; len = 3
+272: total space = 195; hits = 65; string = ble; hex = 626C65; len = 3
+273: total space = 195; hits = 39; string = ="MM_; hex = 3D224D4D5F; len = 5
+274: total space = 195; hits = 39; string = n.gif; hex = 6E2E676966; len = 5
+275: total space = 192; hits = 64; string = nav; hex = 6E6176; len = 3
+276: total space = 192; hits = 64; string = ria; hex = 726961; len = 3
+277: total space = 190; hits = 95; string = ne; hex = 6E65; len = 2
+278: total space = 190; hits = 38; string =  src=; hex = 207372633D; len = 5
+279: total space = 190; hits = 38; string =  onMo; hex = 206F6E4D6F; len = 5
+280: total space = 190; hits = 38; string = " onM; hex = 22206F6E4D; len = 5
+281: total space = 190; hits = 38; string = "MM_s; hex = 224D4D5F73; len = 5
+282: total space = 190; hits = 38; string = ><td>; hex = 3E3C74643E; len = 5
+283: total space = 190; hits = 38; string = HREF=; hex = 485245463D; len = 5
+284: total space = 190; hits = 38; string = Mouse; hex = 4D6F757365; len = 5
+285: total space = 190; hits = 38; string = REF="; hex = 5245463D22; len = 5
+286: total space = 190; hits = 38; string = c="/g; hex = 633D222F67; len = 5
+287: total space = 190; hits = 38; string = dth="; hex = 6474683D22; len = 5
+288: total space = 190; hits = 38; string = d><fo; hex = 643E3C666F; len = 5
+289: total space = 190; hits = 38; string = enter; hex = 656E746572; len = 5
+290: total space = 190; hits = 38; string = nMous; hex = 6E4D6F7573; len = 5
+291: total space = 190; hits = 38; string = onMou; hex = 6F6E4D6F75; len = 5
+292: total space = 190; hits = 38; string = ouseO; hex = 6F7573654F; len = 5
+293: total space = 190; hits = 38; string = rc="/; hex = 72633D222F; len = 5
+294: total space = 190; hits = 38; string = src="; hex = 7372633D22; len = 5
+295: total space = 190; hits = 38; string = tring; hex = 7472696E67; len = 5
+296: total space = 190; hits = 38; string = td><f; hex = 74643E3C66; len = 5
+297: total space = 189; hits = 189; string = 9; hex = 39; len = 1
+298: total space = 189; hits = 63; string = ect; hex = 656374; len = 3
+299: total space = 189; hits = 63; string = r="; hex = 723D22; len = 3
+300: total space = 188; hits = 94; string =  <; hex = 203C; len = 2
+
