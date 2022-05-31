@@ -95,7 +95,7 @@ Added beep on finish option
 New report format
 Multiple file batching
 
-Martial is uses GPL v3.
+Martial uses GPL v3.
 
 *If you don't know what a letter frequency analyzer is useful for, you probably won't
 be able to make sense of the rest of the document. Or Martial itself for that matter.
